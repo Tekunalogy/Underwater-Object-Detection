@@ -1,0 +1,3 @@
+[submodule "models/ultralytics"]
+	path = models/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
